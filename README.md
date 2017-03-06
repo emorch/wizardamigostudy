@@ -1,2 +1,3 @@
 # wizardamigostudy
-documentation of the use of the wizardamigos website
+
+This repository holds documentation of the use of the wizardamigos website.
